@@ -1,0 +1,35 @@
+
+.image{
+  position: relative;
+}
+
+.man{
+  position: absolute;
+  top: 300px;
+  left: 290px;
+}
+
+.women{
+  position: absolute;
+  top: 300px;
+  left: 570px;
+}
+
+
+.witness_man{
+  position: absolute;
+  top: 620px;
+  left: 295px;
+}
+
+.witness_women{
+  position: absolute;
+  top: 620px;
+  left: 570px;
+}
+
+.text-uppercase_new{
+  position: absolute;
+  left: 400px;
+  top: 1000px;
+}

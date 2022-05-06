@@ -1,0 +1,3 @@
+function msgdsp() {
+  alert("ボタンをクリックしましたね。");
+}
