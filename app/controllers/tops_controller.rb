@@ -1,5 +1,5 @@
 class TopsController < ApplicationController
   def index
-    @marrige = Marrige.new
+    @wedding = Wedding.new
   end
 end
