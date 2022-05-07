@@ -5,26 +5,26 @@
 
 .man{
   position: absolute;
-  top: 300px;
+  top: 400px;
   left: 290px;
 }
 
 .women{
   position: absolute;
-  top: 300px;
+  top: 400px;
   left: 570px;
 }
 
 
 .witness_man{
   position: absolute;
-  top: 620px;
+  top: 715px;
   left: 295px;
 }
 
 .witness_women{
   position: absolute;
-  top: 620px;
+  top: 715px;
   left: 570px;
 }
 
