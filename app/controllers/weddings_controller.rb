@@ -1,9 +1,9 @@
 class WeddingsController < ApplicationController
-def index
+  def index
 
-end
+  end
 
-def new
-  @wedding = Wedding.new
-end
+  def new
+    @wedding = Wedding.new
+  end
 end
